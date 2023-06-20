@@ -15,7 +15,8 @@
 .DS_Store
 .prettierignore
 
-.style-guide
+style-guide.md
 node_modules
+dist*
 
 design
